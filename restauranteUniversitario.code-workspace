@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../TCC-Waklio building/wxn-controller/node-mcu"
+		},
+		{
+			"path": "../TCC-Waklio building/wxn-controller/wxn-controller-web-app"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "wxn-controller-web-app"
+	}
+}
